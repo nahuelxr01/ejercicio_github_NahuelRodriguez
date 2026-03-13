@@ -1,3 +1,7 @@
 Cafecito: ¡Oye delincuente! ¿Ya probaste mi speed?
 Cafecito: Lo preparo con un secreto familiar.
 Cafecito: ¿Querés que te prepare uno? (SI/NO)
+
+git add dialogoNPC1.txt
+git commit -m "Creación del Diálogo base"
+git push origin main
