@@ -5,7 +5,3 @@ git add README.md
 git commit -m "Actualización de Readme"
 git push origin main
 
-
-Cafecito: ¡Oye delincuente! ¿Ya probaste mi speed?
-Cafecito: Lo preparo con un secreto familiar.
-Cafecito: ¿Querés que te prepare uno? (SI/NO)
