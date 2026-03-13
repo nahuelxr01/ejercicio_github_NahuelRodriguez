@@ -1,0 +1,3 @@
+Cafecito: ¡Oye delincuente! ¿Ya probaste mi speed?
+Cafecito: Lo preparo con un secreto familiar.
+Cafecito: ¿Querés que te prepare uno? (SI/NO)
